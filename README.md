@@ -31,8 +31,8 @@ To tackle this challenge I...
 
 #### EmployeeSQL                   
 + data folder (departments.csv, dept_emp.csv, dept_managers.csv, employees.csv, salaries.csv, titles.csv)
-+ ERD.png (Entity Relationship Diagram of Employee Data)
-+ schema.sql (Code for Table Schema)
-+ queries.sql (Code for Queries)
++ ERD.png (Data Modeling: Entity Relationship Diagram of Employee Data)
++ schema.sql (Data Engineering: SQL Code for Table Schema)
++ queries.sql (Data Analysis: SQL Code for Queries)
 
 #### ReadMe
