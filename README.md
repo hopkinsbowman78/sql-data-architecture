@@ -35,4 +35,6 @@ To tackle this challenge I...
 + schema.sql (Data Engineering: SQL Code for Table Schema)
 + queries.sql (Data Analysis: SQL Code for Queries)
 
+#### Module 9 SQL Challenge (Original Challenge Requirements)
+
 #### ReadMe
