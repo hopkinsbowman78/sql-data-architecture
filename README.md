@@ -1,4 +1,4 @@
-# sql_challenge
+# sql-data-architecture
 
 
 ## Background
